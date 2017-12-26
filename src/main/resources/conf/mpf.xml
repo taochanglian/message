@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Config>
+    <msp_zk_server>huntkey.sceo.messageplatform.zkserver1.com:2181,huntkey.sceo.messageplatform.zkserver2.com:2181,huntkey.sceo.messageplatform.zkserver3.com:2181</msp_zk_server>
+
+</Config>
